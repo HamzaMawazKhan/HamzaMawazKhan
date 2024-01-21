@@ -1,4 +1,4 @@
-👋 Greetings! I'm Hamza Mawaz Khan, diving deep into data science at the University at Buffalo. 🎓 With a foundation in computer science from Pakistan's top engineering institute, GIKI, I'm all about using machine learning to tackle complex problems. 💡
+👋 Greetings! I'm Hamza Mawaz Khan, diving deep into data science at the University at Buffalo. 🎓 With a foundation in computer science, I'm all about using machine learning to tackle complex problems. 💡
 
 At Rafeeq, as a Junior AI Engineer, I boosted delivery efficiency by up to 20% through advanced analytics. 🚀 My work on predictive models for customer behavior not only enhanced efficiency but also showcased the power of AI in transforming businesses. 📈
 
