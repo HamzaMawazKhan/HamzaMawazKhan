@@ -1,5 +1,5 @@
-👋 Greetings! I'm Hamza Mawaz Khan, diving deep into data science at the University at Buffalo. With a foundation in computer science, I'm all about using machine learning to tackle complex problems. 
+I am a computer and data science enthusiast with experience working as a data scientist across research, healthcare, e-commerce, and logistics industries. My expertise lies in building intelligent systems that solve real-world challenges, such as predicting patient attendance for hospital appointments and optimizing last-mile delivery times.
 
-My project portfolio showcases my diverse application of AI in real-world scenarios. It includes an AI-based attendance system, a high-accuracy cyber attack classifier, and a store sales demand forecasting model just to name a few. This selection of projects is evidence of my hands-on approach to implementing AI in practical settings. 
+A firm believer in lifelong learning, I actively pursue and complete MOOC courses to stay at the forefront of advancements in AI and data science. I'm always eager to explore collaborative opportunities in the ML and data science space. Let’s connect and innovate together to push the boundaries of AI! 🚀📊
 
 I'm on the lookout for collaborative ventures in AI and data science that push the envelope. Let's connect on LinkedIn: https://www.linkedin.com/in/hamzamawazkhan 🌐
